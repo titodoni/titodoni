@@ -1,16 +1,39 @@
-## Hi there 👋
+Tito Doni
+Independent web developer and SaaS builder from Indonesia.
 
-<!--
-**titodoni/titodoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web applications for small businesses, with a focus on simple workflows, clean interfaces, and business operations that actually work in the real world.
 
-Here are some ideas to get you started:
+Current Focus
+Building SaaS products for Indonesian small businesses
+Developing POS, workflow, and internal management systems
+Improving UI/UX for non-technical users
+Using AI-assisted development to move faster without ignoring product logic
+Projects
+LaundryKu
+Multi-tenant laundry management SaaS with POS, customer tracking, order status, membership deposit logic, financial reporting, and owner/staff workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+POgrid
+Production workflow SaaS for factories and workshops. Designed to track purchase orders, department progress, bottlenecks, delays, QC, delivery, and finance status.
+
+Business Websites
+Corporate and SME websites focused on clear messaging, practical design, and usable content structure.
+
+Tech Stack
+JavaScript
+React
+Next.js
+Laravel
+PHP
+Tailwind CSS
+MySQL
+PostgreSQL
+WordPress
+What I Care About
+Software that solves operational pain, not just pretty dashboards
+Interfaces that low-tech users can understand quickly
+Clear product logic before adding features
+Clean documentation and maintainable workflows
+Practical SaaS for real businesses
+Contact
+GitHub: @titodoni
+Email: gitarkopong@gmail.com
